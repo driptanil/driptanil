@@ -1,11 +1,13 @@
 
 <h1 align="center" >Hi, I'm <a href="https://twitter.com/DriptanilDatta" target="_blank"> Driptanil Datta </a></h1>
 
+[![Image of https://github.com/driptanil/Github-profile-views-counter](https://github.com/driptanil/Github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/driptanil/Github-profile-views-counter)
+
 A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Computer Science & Engineering</b> from Techno International New Town, As of now, I am learning on <b>FrontEnd Development, Data Structures </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center">  </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=driptanil&label=Profile%20views&color=6805D3&style=flat" alt="" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -47,104 +49,6 @@ I have learned web-development and having knowledge of HTML,CSS.
 
 
 I am learning JavaScript, Machine Learning & Kubernetes.
-
-
-<table>
-	<tr>
-		<th>
-			Repository
-		</th>
-		<th>
-			Last Updated
-		</th>
-		<th>
-			Unique
-		</th>
-		<th>
-			Views
-		</th>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/driptanil/Github-profile-views-counter/tree/master/readme/389959360/year.md">
-				DSA-Data-Structures-Algorithms
-			</a>
-		</td>
-		<td>
-			2022/9/13 6:50 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/driptanil/Github-profile-views-counter/raw/master/graph/389959360/small/year.png" height="20"> 5
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/driptanil/Github-profile-views-counter/tree/master/readme/469204634/year.md">
-				Git-GitHub
-			</a>
-		</td>
-		<td>
-			2022/9/13 6:50 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/driptanil/Github-profile-views-counter/raw/master/graph/469204634/small/year.png" height="20"> 4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/driptanil/Github-profile-views-counter/tree/master/readme/476590608/year.md">
-				Math-for-Computer-Science
-			</a>
-		</td>
-		<td>
-			2022/9/13 6:50 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/driptanil/Github-profile-views-counter/raw/master/graph/476590608/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/driptanil/Github-profile-views-counter/tree/master/readme/483470699/year.md">
-				Networking
-			</a>
-		</td>
-		<td>
-			2022/9/13 6:50 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/driptanil/Github-profile-views-counter/raw/master/graph/483470699/small/year.png" height="20"> 2
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/driptanil/Github-profile-views-counter/tree/master/readme/523624779/year.md">
-				Frontend
-			</a>
-		</td>
-		<td>
-			2022/9/13 6:51 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/driptanil/Github-profile-views-counter/raw/master/graph/523624779/small/year.png" height="20"> 6
-		</td>
-	</tr>
-</table>
 
 
 
