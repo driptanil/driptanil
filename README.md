@@ -32,10 +32,11 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
     <li> I used <i>`Firebase`</i> for Hosting, NoSQL Database, Google Authentication.
     <li> I used `TailwindCSS` and `Framer Motion` library to make the UI.
     <li> I used `yup` package to add restriction to Create Post form.
+    <li><a href="https://social-hot-takes.web.app/">Project Link 🔗</a>
+      
 
 <br>
-<a herf="https://social-hot-takes.web.app/">Project Link 🔗</a>
-  
+       
   <br>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
