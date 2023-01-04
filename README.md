@@ -1,14 +1,14 @@
 <h1 align="center" >Hi, I'm <a href="https://twitter.com/DriptanilDatta" target="_blank"> Driptanil Datta </a></h1>
 
-A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Computer Science & Engineering</b> from Techno International New Town, I have accrued knowledge of FrontEnd Web Development As of now, I am learning BackEnd Web Development<b> </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Computer Science & Engineering</b> from Techno International New Town, I have acquired knowledge of FrontEnd Web Development As of now, I am learning BackEnd Web Development <b>(Next.JS) </b> but still, wish to explore many fields. ⚡
 <br>
 <br>
 
-<h1>Technical Skills 🛠</h1>
+<h1 align="center">Technical Skills 🛠</h1>
 
 <!-- REACT -->
 <div>
-  <h2><img alt="ReactJs" height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></h2>
+  <h3><img alt="ReactJs" height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></h3>
   <li>I learnt React JS from 
   <a href="https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR">
   <img width="90" height="20"src="https://img.shields.io/badge/Pedro_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -54,9 +54,9 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
 <br>
 
 <div>
-  <h2>
+  <h3>
       <img alt="Python" height="40" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /> 
-  </h2>
+  </h3>
   <li>I learnt Python programming from .
 
   <br>
@@ -80,7 +80,7 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
 
 <br>
 <!-- JAVA -->
-<div><h2><img alt="Java" height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" /> </h2>
+<div><h3><img alt="Java" height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" /> </h3>
 <li>I have learnt Data Structures & Algorithms in Java using concepts like Object Oriented Programming from <a href="https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR">
   <img width="130" height="20"src="https://img.shields.io/badge/Kunal_Kushwaha-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>.
 <li>I solved problems (stacks, queues, linked lists, trees) on <a href = "https://leetcode.com/driptanil/"> <img  height="20" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
