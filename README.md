@@ -1,13 +1,16 @@
 <h1 align="center" >Hi, I'm <a href="https://twitter.com/DriptanilDatta" target="_blank"> Driptanil Datta </a></h1>
 
 A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Computer Science & Engineering</b> from Techno International New Town, I have acquired knowledge of FrontEnd Web Development As of now, I am learning BackEnd Web Development <b>(Next.JS) </b> but still, wish to explore many fields. ⚡
-<br>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=driptanil&label=Profile%20views&color=6805D3&style=flat" alt="Profile Counter">
+<br>
 <br></div>
 
 <h1 align="center">Technical Skills 🛠</h1>
 
 <!-- REACT -->
+<table>
+<tr>
+<td>
 <div>
   <h3><img alt="ReactJs" height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></h3>
   <li>I learnt React JS from 
@@ -51,9 +54,18 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
   </ul>
 </ul>
 </div>
+</td>
+<td>
+<img src="./image/react.png">
+</td>
+</tr>
+</table>
 
 <br>
 
+<table>
+<tr>
+<td>
 <div>
   <h3>
       <img alt="Python" height="40" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -78,7 +90,10 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
   <img alt="Yahoo Finance" src="https://img.shields.io/badge/Yahoo_FInance-543DE0?style=for-the-badge&logo=yahoo&logoColor=white" >
   </p>
 </div>
-
+</td>
+<td><img src="./image/python.png"></td>
+</tr>
+</table>
 <br>
 <!-- JAVA -->
 <div><h3><img alt="Java" height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" /> </h3>
