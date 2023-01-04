@@ -1,3 +1,5 @@
+
+
 <h1 align="center" >Hi, I'm <a href="https://twitter.com/DriptanilDatta" target="_blank"> Driptanil Datta </a></h1>
 
 A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Computer Science & Engineering</b> from Techno International New Town, I have acquired knowledge of FrontEnd Web Development As of now, I am learning BackEnd Web Development <b>(Next.JS) </b> but still, wish to explore many fields. ⚡
@@ -5,10 +7,10 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
 <br>
 <br></div>
 
-<h1 align="center">Technical Skills 🛠</h1>
+<h1 size="40px" align="center">Technical Skills 🛠</h1>
 
 <!-- REACT -->
-<table>
+<table >
 <tr>
 <td>
 <div>
@@ -18,7 +20,6 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
   <img width="90" height="20"src="https://img.shields.io/badge/Pedro_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.udemy.com/course/react-redux/">
   <img width="170" height="20"src="https://img.shields.io/badge/Modern_React_with_Redux-58287F?style=for-the-badge&logo=Udemy&logoColor=white"></a>.
-  
   <br>
 
 <li> <a href="https://social-hot-takes.web.app/" >   <img height="40" alt="Social Media (CRUD) Web Application" src="https://img.shields.io/badge/Social_Media_(CRUD)_Web_Application-282A3A?style=for-the-badge" ></a>
@@ -56,7 +57,7 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
 </div>
 </td>
 <td>
-<img src="./image/react.png">
+<img src="./image/react.png" width="1300">
 </td>
 </tr>
 </table>
@@ -91,7 +92,7 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
   </p>
 </div>
 </td>
-<td><img src="./image/python.png"></td>
+<td><img width="1000" src="./image/python.png"></td>
 </tr>
 </table>
 <br>
