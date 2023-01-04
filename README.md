@@ -57,7 +57,7 @@ A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Compute
 </div>
 </td>
 <td>
-<img src="./image/react.png" width="1300">
+<img src="./image/react.png" width="1500">
 </td>
 </tr>
 </table>
