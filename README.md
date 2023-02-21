@@ -2,7 +2,7 @@
 
 <h1 align="center" >Hi, I'm <a href="https://twitter.com/DriptanilDatta" target="_blank"> Driptanil Datta </a></h1>
 
-A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Computer Science & Engineering</b> from Techno International New Town, I have acquired knowledge of FrontEnd Web Development As of now, I am learning BackEnd Web Development <b>(Next.JS) </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech_Hons</b> in <b>Computer Science & Engineering</b> from Techno International New Town, I have acquired knowledge of FrontEnd Web Development As of now, I am learning BackEnd Web Development <b>(Next.JS) </b> but still, wish to explore many fields. ⚡
 <div align="center"><img src="https://komarev.com/ghpvc/?username=driptanil&label=Profile%20views&color=6805D3&style=flat" alt="Profile Counter">
 <br></div>
 <div align="center">
