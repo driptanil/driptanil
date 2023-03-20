@@ -65,7 +65,7 @@
         <td>
             <div>
                 <br>
-                <h2 align="center">🌶️Hot 🗨️Takes 🕸️Web📱App</h2>
+                <h1 align="center">🌶️Hot 🗨️Takes 🕸️Web📱App</h1>
                 <br>
                 <br>
                 <li>I learnt React JS from
@@ -125,7 +125,7 @@
         <td>
             <div>
                 <br>
-                <h2 align="center">🎥Live 🪙Crypto 📈Visualizer 🕸️Web📱App</h2>
+                <h1 align="center">🎥Live 🪙Crypto 📈Visualizer 🕸️Web📱App</h1>
                 <br>
                 <h3>Features:</h3>
                 <ol>
@@ -176,7 +176,7 @@
         <td>
             <div>
                 <br>
-                <h2 align="center">📜Past 💸Stock 💼Market 📔Dashboard</h2>
+                <h1 align="center">📜Past 💸Stock 💼Market 📔Dashboard</h1>
                 <br>
                 <ol>
                     <li>
