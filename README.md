@@ -3,7 +3,6 @@
     <a href="https://driptanil.github.io/" target="_blank"> Driptanil Datta </a> 🤵
 </h1>
 
-
 <p>
     A bit about Myself, I am <b>Driptanil</b> pursuing my <b>BTech</b> in <b>Computer Science & Engineering</b> from Techno International New Town, I have acquired knowledge of FrontEnd Web Development As of now, I am learning BackEnd Web Development <b>(Next.JS) </b> but still, wish to explore many fields. ⚡
 </p>
@@ -66,6 +65,10 @@
                 <br>
                 <h1 align="center">🌶️Hot 🗨️Takes 🕸️Web📱App</h1>
                 <br>
+                <h3>
+                        Project Link 🔗 : 
+                        <a href="https://social-hot-takes.web.app/">CLICK HERE</a>
+                    </h3>
                 <br>
                 <li>I learnt React JS from
                     <a href="https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR">
@@ -91,9 +94,6 @@
                     </li>
                     <li>
                         I used `yup` package to add restriction to Create Post form.
-                    </li>
-                    <li>
-                        <a href="https://social-hot-takes.web.app/">Project Link 🔗</a>
                     </li>
                     <br>
                     <br>
@@ -126,6 +126,11 @@
                 <br>
                 <h1 align="center">🎥Live 🪙Crypto 📈Visualizer 🕸️Web📱App</h1>
                 <br>
+                <h3>
+                        Project Link 🔗 : 
+                        <a href="https://crypto-live-visualizer.onrender.com/">CLICK HERE</a>
+                    </h3>
+                <br>
                 <h3>Features:</h3>
                 <ol>
                     <li>
@@ -150,6 +155,8 @@
                         <i>`Render`</i> platform is used to deploy.
                     </li>
                 </ul>
+                <br>
+                <br>
                 <p>
                     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-c46200.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
                     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -188,6 +195,8 @@
                         I used <i>`Microsoft Power BI`</i>, to create dashboard for line graph.
                     </li>
                 </ol>
+                <br>
+                <br>
                 <p>
                     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-c46200.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
                     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
