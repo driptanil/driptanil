@@ -19,7 +19,7 @@
     <br>
 </div>
 <br>
-<h3 align="center"> 🤵 My Portfolio 🗃️ : <a href="https://driptanil.github.io/Portfolio/">CLICK HERE</a></h3>
+<h3 align="center"> 🤵 My Portfolio 🗃️ : <a href="https://driptanil.github.io/Portfolio/" target="_blank">CLICK HERE</a></h3>
 <br>
 <br>
 
@@ -67,7 +67,7 @@
                 <br>
                 <h3>
                         Project Link 🔗 : 
-                        <a href="https://social-hot-takes.web.app/">CLICK HERE</a>
+                        <a target="_blank" href="https://social-hot-takes.web.app/">CLICK HERE</a>
                     </h3>
                 <br>
                 <li>I learnt React JS from
@@ -128,7 +128,7 @@
                 <br>
                 <h3>
                         Project Link 🔗 : 
-                        <a href="https://crypto-live-visualizer.onrender.com/">CLICK HERE</a>
+                        <a href="https://crypto-live-visualizer.onrender.com/" target="_blank">CLICK HERE</a>
                     </h3>
                 <br>
                 <h3>Features:</h3>
@@ -229,19 +229,15 @@
     </li>
 </div>
 <br>
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
-
-
 <br>
-
 
 <h1 align="center">🔗 Connect with Me 🤝</h1>
 <br>
 <br>
 <div align="center">
-    <a href="mailto:driprecovery@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:driprecovery@gmail.com" target="_blank"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     <a href="https://twitter.com/DriptanilDatta" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-    <a  href="https://t.me/driptanil"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a  href="https://t.me/driptanil" target="_blank"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <!-- <a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> -->
     <!-- <a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
     </a>
