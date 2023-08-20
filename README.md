@@ -1,6 +1,6 @@
 <h1 align="center" >
     👋 Hi, I'm
-    <a href="https://driptanil.github.io/" target="_blank"> Driptanil Datta </a> 🤵
+    <a href="https://drip-driptanil.vercel.app/" target="_blank"> Driptanil Datta </a> 🤵
 </h1>
 
 <p>
@@ -19,7 +19,7 @@
     <br>
 </div>
 <br>
-<h3 align="center"> 🤵 My Portfolio 🗃️ : <a href="https://driptanil.github.io/Portfolio/" target="_blank">CLICK HERE</a></h3>
+<h3 align="center"> 🤵 My Portfolio 🗃️ : <a href="https://drip-driptanil.vercel.app/" target="_blank">CLICK HERE</a></h3>
 <br>
 <br>
 
